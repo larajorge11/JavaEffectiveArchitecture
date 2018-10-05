@@ -38,5 +38,6 @@ public class NutritionFactsTelescoping {
 
     public static void main(String [] args) {
         NutritionFactsTelescoping cocaCola = new NutritionFactsTelescoping(240, 8, 100, 0, 35, 27);
+        System.out.println(cocaCola);
     }
 }
