@@ -42,7 +42,6 @@ public class NutritionFactsBuilder {
         public Builder carbohydrate(int carbohydrate) {
             this.carbohydrate = carbohydrate;
             return this;
-
         }
 
         public NutritionFactsBuilder build() {
