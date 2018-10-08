@@ -1,5 +1,6 @@
 package chapter2.item2;
 
+// The Builder Pattern
 public class NutritionFactsBuilder {
     private final int servingSize;
     private final int servings;
